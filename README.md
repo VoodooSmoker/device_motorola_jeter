@@ -1,2 +1,1 @@
-# device_tree_jeter
-device tree for slimrom
+# device_motorola_jeter
