@@ -1,2 +1,2 @@
-# device_tree_aljeter
+# device_tree_jeter
 device tree for slimrom
